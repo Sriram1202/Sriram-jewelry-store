@@ -1,6 +1,6 @@
 # 💎 Sriram Jewelry Store – Magento Frontend Project
 
-![Homepage Preview](screenshots/homepage.png)
+![Homepage Preview](screenshots/homepage.PNG)
 
 This project is a **Magento 2 frontend UI customization** created as part of a frontend assignment.
 The goal was to design a **luxury-style jewelry e-commerce interface** inspired by modern jewelry brands.
