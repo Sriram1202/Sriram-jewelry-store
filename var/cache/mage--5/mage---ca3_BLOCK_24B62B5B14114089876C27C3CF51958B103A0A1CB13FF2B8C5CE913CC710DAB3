@@ -1,0 +1,6 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1773646662;s:6:"expire";i:1773650262;s:4:"tags";s:81:"ca3_BLOCK_HTML,ca3_CAT_C,ca3_CAT_C_3,ca3_CAT_C_5,ca3_CAT_C_6,ca3_CAT_C_7,ca3_MAGE";}
+
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first level-top"><a href="http://localhost/index.php/rings.html"  class="level-top" ><span>Rings</span></a></li><li  class="level0 nav-2 category-item level-top"><a href="http://localhost/index.php/necklaces.html"  class="level-top" ><span>Necklaces</span></a></li><li  class="level0 nav-3 category-item level-top"><a href="http://localhost/index.php/bracelets.html"  class="level-top" ><span>Bracelets</span></a></li><li  class="level0 nav-4 category-item last level-top"><a href="http://localhost/index.php/earrings.html"  class="level-top" ><span>Earrings</span></a></li>            </ul>
+</nav>

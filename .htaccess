@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^/magento2/pub/
+RewriteCond %{REQUEST_URI} !^/magento2/setup/
+RewriteCond %{REQUEST_URI} !^/magento2/update/
+RewriteRule ^magento2/(.*)$ /magento2/pub/$1 [L,R=301]
