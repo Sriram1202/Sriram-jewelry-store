@@ -89,11 +89,11 @@ A short walkthrough of the Magento jewelry store UI.
 
 ## 🏠 Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.PNG)
 
-![Homepage UI Section](screenshots/homepage2.png)
+![Homepage UI Section](screenshots/homepage2.PNG)
 
-![Homepage Features](screenshots/homepage3.png)
+![Homepage Features](screenshots/homepage3.PNG)
 
 ---
 
@@ -101,31 +101,31 @@ A short walkthrough of the Magento jewelry store UI.
 
 ### Rings
 
-![Rings](screenshots/rings.png)
+![Rings](screenshots/rings.PNG)
 
 ### Earrings
 
-![Earrings](screenshots/earrings.png)
+![Earrings](screenshots/earrings.PNG)
 
 ### Necklaces
 
-![Necklaces](screenshots/necklaces.png)
+![Necklaces](screenshots/necklaces.PNG)
 
 ### Bracelets
 
-![Bracelets](screenshots/bracelets.png)
+![Bracelets](screenshots/bracelets.PNG)
 
 ---
 
 ## 💎 Product Detail Page
 
-![Product Page](screenshots/product.png)
+![Product Page](screenshots/product.PNG)
 
 ---
 
 ## 🛒 Cart Page
 
-![Cart](screenshots/cart.png)
+![Cart](screenshots/cart.PNG)
 
 
 ---
